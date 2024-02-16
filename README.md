@@ -1,5 +1,5 @@
 # 目次
-[notionページの作成](#1)
+[notionの論文pdf出力](#1)
 
 # notionで編集した論文の出力
   1.notionでhtml出力する<br>
