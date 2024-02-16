@@ -8,7 +8,7 @@
 # 目次
 [notionページの作成](#1)
 
-# notionページの出力
+# notionで編集した論文の出力
   1.notionでhtml出力する<br>
   2.vscodeなどのエディタで出力したhtmlを開く<br>
   3.ページを分割したいところで`<div style="page-break-after: always;"></div>`を挿入して保存<br>
